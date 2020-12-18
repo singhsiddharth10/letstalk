@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704709068570",
+    "firebase_url": "https://flash-chat-e5087.firebaseio.com",
+    "project_id": "flash-chat-e5087",
+    "storage_bucket": "flash-chat-e5087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704709068570:android:229ef581669cd9d0530ea3",
+        "android_client_info": {
+          "package_name": "co.Siddharth.letstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704709068570-jut502rmmu6torle01ief780uaspenii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWp6KCKLV7xAM9IlRch2GMI-fA3L3-qJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704709068570-jut502rmmu6torle01ief780uaspenii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
